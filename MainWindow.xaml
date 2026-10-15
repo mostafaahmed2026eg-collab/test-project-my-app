@@ -676,8 +676,9 @@
                     </ListBox>
                 </Grid>
             </TabItem>
+        </TabControl>
 
-            <!-- ============ الشريط السفلي ============ -->
+        <!-- ============ الشريط السفلي ============ -->
         <Grid Grid.Row="2" Margin="0,8,0,0">
             <TextBlock Text="V1.0" Foreground="{DynamicResource SubTextBrush}" FontSize="12" FontWeight="SemiBold" HorizontalAlignment="Right" VerticalAlignment="Center"/>
         </Grid>
